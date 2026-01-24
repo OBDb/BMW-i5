@@ -1,0 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_5_Series_(G60)#BMW_i5"
+
+generations:
+  - name: "First Generation"
+    start_year: 2024
+    end_year: null
+    description: "The BMW i5 is the fully electric variant of the 8th generation BMW 5 Series (G60). Production commenced in July 2023 with sales beginning in October 2023. Available as saloon (G60) and Touring (G61) models. Offers three variants: eDrive40 (rear-wheel-drive), xDrive40 (all-wheel-drive), and M60 xDrive (high-performance). The i5 features an 84.3 kWh battery, twin electric motors (dual-motor on xDrive40 and M60 variants), and up to 442 kW of power on the M60. All models share the updated BMW CLAR platform with the G60 5 Series and feature iDrive 8.5 infotainment system."
+    platform_code: "G60/G61"
