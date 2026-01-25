@@ -1,26 +1,38 @@
 command_id: 6F1.660.22D10D|e=60,fc=1
 test_cases:
 - expected_values:
-    I5_ODO1: 6767
-    I5_ODO2: 6767
-  response: |-
-    660F1100B62D10D0000
-    660F1211A6F00001A6F
-- expected_values:
-    I5_ODO1: 6768
-    I5_ODO2: 6768
-  response: |-
-    660F1100B62D10D0000
-    660F1211A7000001A70
-- expected_values:
     I5_ODO1: 6813
     I5_ODO2: 6813
   response: |-
     660F1100B62D10D0000
     660F1211A9D00001A9D
 - expected_values:
-    I5_ODO1: 6923
-    I5_ODO2: 6923
+    I5_ODO1: 7808
+    I5_ODO2: 7808
   response: |-
     660F1100B62D10D0000
-    660F1211B0B00001B0B
+    660F1211E8000001E80
+- expected_values:
+    I5_ODO1: 8176
+    I5_ODO2: 8176
+  response: |-
+    660F1100B62D10D0000
+    660F1211FF000001FF0
+- expected_values:
+    I5_ODO1: 8192
+    I5_ODO2: 8192
+  response: |-
+    660F1100B62D10D0000
+    660F121200000002000
+- expected_values:
+    I5_ODO1: 10463
+    I5_ODO2: 10463
+  response: |-
+    660F1100B62D10D0000
+    660F12128DF000028DF
+- expected_values:
+    I5_ODO1: 12538
+    I5_ODO2: 12538
+  response: |-
+    660F1100B62D10D0000
+    660F12130FA000030FA
