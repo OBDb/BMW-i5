@@ -21,15 +21,15 @@ test_cases:
     607F1100962E5CE0C3D
     607F1210C100C6E
 - expected_values:
-    I5_HVBAT_SOC_V2: 38.4
+    I5_HVBAT_SOC_V2: 33.28
   response: |-
-    607F1100962E5CE0F00
-    607F1210EE40F25
+    607F1100962E5CE0D00
+    607F1210CD30D24
 - expected_values:
-    I5_HVBAT_SOC_V2: 40.48
+    I5_HVBAT_SOC_V2: 40.46
   response: |-
-    607F1100962E5CE0FD0
-    607F1210FB50FF8
+    607F1100962E5CE0FCE
+    607F1210FA40FF2
 - expected_values:
     I5_HVBAT_SOC_V2: 40.63
   response: |-
@@ -41,10 +41,10 @@ test_cases:
     607F1100962E5CE1010
     607F1210FF61025
 - expected_values:
-    I5_HVBAT_SOC_V2: 41.28
+    I5_HVBAT_SOC_V2: 41.26
   response: |-
-    607F1100962E5CE1020
-    607F1211004104E
+    607F1100962E5CE101E
+    607F1211003103C
 - expected_values:
     I5_HVBAT_SOC_V2: 90.77
   response: |-
