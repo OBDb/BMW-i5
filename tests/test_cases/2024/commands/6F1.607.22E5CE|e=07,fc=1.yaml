@@ -1,20 +1,20 @@
 command_id: 6F1.607.22E5CE|e=07,fc=1
 test_cases:
 - expected_values:
-    I5_HVBAT_SOC_V2: 63.61
+    I5_HVBAT_SOC_V2: 48.87
   response: |-
-    607F1100962E5CE18D9
-    607F12118BD1903
+    607F1100962E5CE1317
+    607F12112F21348
+- expected_values:
+    I5_HVBAT_SOC_V2: 49.48
+  response: |-
+    607F1100962E5CE1354
+    607F121132F1385
 - expected_values:
     I5_HVBAT_SOC_V2: 66.93
   response: |-
     607F1100962E5CE1A25
     607F1211A081A50
-- expected_values:
-    I5_HVBAT_SOC_V2: 70.06
-  response: |-
-    607F1100962E5CE1B5E
-    607F1211B3F1B91
 - expected_values:
     I5_HVBAT_SOC_V2: 76.79
   response: |-
