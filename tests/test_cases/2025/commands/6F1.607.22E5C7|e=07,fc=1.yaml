@@ -26,10 +26,10 @@ test_cases:
     607F1100762E5C71BFF
     607F12131F5
 - expected_values:
-    I5_HVBAT_SOH_V2: 31
+    I5_HVBAT_SOH_V2: 28
   response: |-
-    607F1100762E5C720BC
-    607F121311F
+    607F1100762E5C71F06
+    607F121311C
 - expected_values:
     I5_HVBAT_SOH_V2: 100
   response: |-
