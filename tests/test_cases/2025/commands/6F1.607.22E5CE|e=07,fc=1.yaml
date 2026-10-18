@@ -14,7 +14,7 @@ test_cases:
     I5_HVBAT_SOC_V2: 25.59
   response: |-
     607F1100962E5CE09FF
-    607F12109D80A20
+    607F12109D80A1B
 - expected_values:
     I5_HVBAT_SOC_V2: 31.33
   response: |-

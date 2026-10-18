@@ -3,8 +3,18 @@ test_cases:
 - expected_values:
     I5_HVBAT_SOH_V2: 100
   response: |-
-    607F1100762E5C71880
-    607F121329C
+    607F1100762E5C717EF
+    607F1213164
+- expected_values:
+    I5_HVBAT_SOH_V2: 100
+  response: |-
+    607F1100762E5C717FF
+    607F1213166
+- expected_values:
+    I5_HVBAT_SOH_V2: 100
+  response: |-
+    607F1100762E5C71900
+    607F121316D
 - expected_values:
     I5_HVBAT_SOH_V2: 100
   response: |-
@@ -15,16 +25,6 @@ test_cases:
   response: |-
     607F1100762E5C71A34
     607F12131E0
-- expected_values:
-    I5_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C71B00
-    607F12131F6
-- expected_values:
-    I5_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C71BFF
-    607F12131F5
 - expected_values:
     I5_HVBAT_SOH_V2: 28
   response: |-
