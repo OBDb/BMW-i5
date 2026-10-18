@@ -16,15 +16,15 @@ test_cases:
     607F1100762E5C71900
     607F121316D
 - expected_values:
+    I5_HVBAT_SOH_V2: 80
+  response: |-
+    607F1100762E5C71943
+    607F1213150
+- expected_values:
     I5_HVBAT_SOH_V2: 100
   response: |-
     607F1100762E5C71988
     607F1212BEF
-- expected_values:
-    I5_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C71A34
-    607F12131E0
 - expected_values:
     I5_HVBAT_SOH_V2: 28
   response: |-
