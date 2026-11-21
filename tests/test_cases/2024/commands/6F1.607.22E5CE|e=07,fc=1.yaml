@@ -41,10 +41,10 @@ test_cases:
     607F1100962E5CE1FD5
     607F1211FB0200B
 - expected_values:
-    I5_HVBAT_SOC_V2: 82.06
+    I5_HVBAT_SOC_V2: 82.27
   response: |-
-    607F1100962E5CE200E
-    607F1211FE92044
+    607F1100962E5CE2023
+    607F1211FF4204A
 - expected_values:
     I5_HVBAT_SOC_V2: 82.32
   response: |-
